@@ -1,4 +1,4 @@
-title = "Notre-Dame de Paris my blog"
+title = "Notre-Dame de Paris"
 baseURL = "https://pbgswd.github.io"
 languageCode = "en-us"
 theme = ["ananke"]
