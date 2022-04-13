@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Ananke test"
+    title = "Testing a hugo"
     weight = 1
     contentDir = "content/"
   [languages.fr]
