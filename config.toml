@@ -1,5 +1,5 @@
-title = "Notre-Dame de Paris"
-baseURL = "http://hugo1"
+title = "Notre-Dame de Paris my blog"
+baseURL = "https://pbgswd.github.io"
 languageCode = "en-us"
 theme = ["ananke"]
 resourceDir = "../resources"
